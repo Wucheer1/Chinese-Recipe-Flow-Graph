@@ -1,0 +1,94 @@
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-0############
+{'f1': 0.78572814452718, 'precision': 0.7911514742721888, 'recall': 0.7961295153686508}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-1############
+{'f1': 0.7940910623230876, 'precision': 0.8045956716892344, 'recall': 0.7993961469347804}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-2############
+{'f1': 0.8013507190802829, 'precision': 0.8106564839876604, 'recall': 0.8064206875854407}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-3############
+{'f1': 0.7993741210075874, 'precision': 0.807247737067481, 'recall': 0.8076838715545598}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-4############
+{'f1': 0.8023288548715354, 'precision': 0.8096938717030047, 'recall': 0.8095822497888604}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-5############
+{'f1': 0.7831584262029707, 'precision': 0.7909763014951534, 'recall': 0.7916054079297739}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-6############
+{'f1': 0.7797884068260957, 'precision': 0.7915372918893906, 'recall': 0.7872797499549754}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-7############
+{'f1': 0.8035818542395431, 'precision': 0.8115554932264355, 'recall': 0.8134657560145196}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-8############
+{'f1': 0.7641375925194153, 'precision': 0.7727731581601943, 'recall': 0.7698503035195351}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-9############
+{'f1': 0.8195199948177817, 'precision': 0.8272589589886796, 'recall': 0.8267742900488132}
+Average Metrics: {'f1': 0.793305917641548, 'precision': 0.8017446442479423, 'recall': 0.800818797869991}
+
+Per-Class Average Metrics:
+Label 'F': F1=0.9252, Precision=0.9317, Recall=0.9190, Support=3809
+Label 'Ac': F1=0.9458, Precision=0.9387, Recall=0.9533, Support=1845
+Label 'Q': F1=0.8882, Precision=0.8817, Recall=0.8952, Support=1416
+Label 'Sf': F1=0.8936, Precision=0.8825, Recall=0.9054, Support=374
+Label 'T': F1=0.7082, Precision=0.7178, Recall=0.7007, Support=515
+Label 'D': F1=0.9054, Precision=0.9106, Recall=0.9037, Support=280
+Label 'St': F1=0.9396, Precision=0.9425, Recall=0.9370, Support=224
+Label 'Af': F1=0.8538, Precision=0.8437, Recall=0.8693, Support=130
+
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-42-0############
+{'f1': 0.7825256640069956, 'precision': 0.7885565028095152, 'recall': 0.7916684417402491}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-1############
+{'f1': 0.7997274311505197, 'precision': 0.809087203039304, 'recall': 0.8055004965814099}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-2############
+{'f1': 0.8021696195733579, 'precision': 0.8102529415459077, 'recall': 0.8102662219317122}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-3############
+{'f1': 0.7936040900379853, 'precision': 0.8011078851971921, 'recall': 0.8019856713668299}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-4############
+{'f1': 0.8105617319305312, 'precision': 0.8189315150581649, 'recall': 0.8162050564337127}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-5############
+{'f1': 0.7797746339905701, 'precision': 0.7868417274285109, 'recall': 0.7887054441591946}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-6############
+{'f1': 0.7680121197993767, 'precision': 0.7788407206834886, 'recall': 0.7756759836743377}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-7############
+{'f1': 0.7986747381127097, 'precision': 0.8063823940241877, 'recall': 0.8094598661536796}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-8############
+{'f1': 0.7643593651908879, 'precision': 0.7736355982599356, 'recall': 0.7691350913963195}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-CRF-EGP-42-9############
+{'f1': 0.8246203576636597, 'precision': 0.8300108339644796, 'recall': 0.8324076650695241}
+Average Metrics: {'f1': 0.7924029751456594, 'precision': 0.8003647322010685, 'recall': 0.800100993850697}
+
+Per-Class Average Metrics:
+Label 'F': F1=0.9251, Precision=0.9311, Recall=0.9194, Support=3809
+Label 'Ac': F1=0.9463, Precision=0.9393, Recall=0.9536, Support=1845
+Label 'Q': F1=0.8898, Precision=0.8836, Recall=0.8964, Support=1416
+Label 'Sf': F1=0.8954, Precision=0.8824, Recall=0.9092, Support=374
+Label 'T': F1=0.7010, Precision=0.7113, Recall=0.6933, Support=515
+Label 'D': F1=0.9022, Precision=0.9088, Recall=0.8991, Support=280
+Label 'St': F1=0.9383, Precision=0.9440, Recall=0.9328, Support=224
+Label 'Af': F1=0.8430, Precision=0.8357, Recall=0.8560, Support=130
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-0############
+{'f1': 0.7830142560415728, 'precision': 0.7902460424732326, 'recall': 0.7916499565880615}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-1############
+{'f1': 0.8036128111374772, 'precision': 0.8127838654110928, 'recall': 0.8082425845534502}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-2############
+{'f1': 0.7952614296972402, 'precision': 0.8039546687709429, 'recall': 0.8020080443811184}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-3############
+{'f1': 0.7921714854059824, 'precision': 0.8003370147581623, 'recall': 0.8007161022894054}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-4############
+{'f1': 0.8023669378983966, 'precision': 0.8104514565756865, 'recall': 0.8087145002133324}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-5############
+{'f1': 0.7734616130161506, 'precision': 0.780153847250432, 'recall': 0.7840970805154704}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-6############
+{'f1': 0.7750883888673912, 'precision': 0.7845326561335659, 'recall': 0.7827763497852919}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-7############
+{'f1': 0.7942375301707761, 'precision': 0.8027529364300954, 'recall': 0.8035109392278835}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-8############
+{'f1': 0.7584710171216532, 'precision': 0.7681533525094576, 'recall': 0.7635123163605204}
+###########Chinese-Recipe-NER-BIOES-bert-base-chinese-BERT-LSTM-CRF-EGP-42-9############
+{'f1': 0.8191034097452661, 'precision': 0.8249453211498069, 'recall': 0.8274728337987912}
+Average Metrics: {'f1': 0.7896788879101908, 'precision': 0.7978311161462475, 'recall': 0.7972700707713325}
+
+Per-Class Average Metrics:
+Label 'F': F1=0.9233, Precision=0.9301, Recall=0.9167, Support=3809
+Label 'Ac': F1=0.9451, Precision=0.9392, Recall=0.9512, Support=1845
+Label 'Q': F1=0.8894, Precision=0.8822, Recall=0.8970, Support=1416
+Label 'Sf': F1=0.8945, Precision=0.8824, Recall=0.9078, Support=374
+Label 'T': F1=0.6987, Precision=0.7010, Recall=0.6994, Support=515
+Label 'D': F1=0.9059, Precision=0.9148, Recall=0.9006, Support=280
+Label 'St': F1=0.9363, Precision=0.9390, Recall=0.9337, Support=224
+Label 'Af': F1=0.8464, Precision=0.8467, Recall=0.8511, Support=130

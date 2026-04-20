@@ -1,0 +1,123 @@
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-0############
+{'f1': 0.8159239039333559, 'precision': 0.8244530038081308, 'recall': 0.8256103438443865}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-1############
+{'f1': 0.82255100008643, 'precision': 0.8336013943963556, 'recall': 0.8313864119446145}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-2############
+{'f1': 0.8327739504124978, 'precision': 0.840369962649948, 'recall': 0.8418088911087216}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-3############
+{'f1': 0.8164853922493954, 'precision': 0.8272981382214619, 'recall': 0.8233828736790905}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-4############
+{'f1': 0.8339774101209323, 'precision': 0.8434488813073061, 'recall': 0.8410591167983846}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-5############
+{'f1': 0.8214465952236167, 'precision': 0.8298544603705772, 'recall': 0.8336805074177563}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-6############
+{'f1': 0.8092814754696526, 'precision': 0.8210654439233748, 'recall': 0.8184520370200137}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-8############
+{'f1': 0.8108112784102638, 'precision': 0.8219067925367889, 'recall': 0.8168910830821584}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-9############
+{'f1': 0.8397657294372003, 'precision': 0.8475801121481032, 'recall': 0.8470242533353696}
+Average Metrics: {'f1': 0.8227016615454701, 'precision': 0.8322374348019445, 'recall': 0.8313684295135777}
+
+Per-Class Average Metrics:
+Label 'F': F1=0.9272, Precision=0.9338, Recall=0.9208, Support=3806
+Label 'Ac': F1=0.9517, Precision=0.9450, Recall=0.9588, Support=1845
+Label 'Q': F1=0.8928, Precision=0.8861, Recall=0.8997, Support=1416
+Label 'Sf': F1=0.8943, Precision=0.8837, Recall=0.9058, Support=377
+Label 'T': F1=0.7121, Precision=0.7187, Recall=0.7075, Support=516
+Label 'D': F1=0.9092, Precision=0.9096, Recall=0.9110, Support=279
+Label 'St': F1=0.9413, Precision=0.9421, Recall=0.9410, Support=224
+Label 'Af': F1=0.8470, Precision=0.8434, Recall=0.8551, Support=130
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-0############
+{'f1': 0.8159239039333559, 'precision': 0.8244530038081308, 'recall': 0.8256103438443865}
+
+Fold 0 - Per-Class Metrics:
+Label 'F': F1=0.9192, Precision=0.9267, Recall=0.9118, Support=4909
+Label 'Ac': F1=0.9417, Precision=0.9254, Recall=0.9587, Support=2056
+Label 'Q': F1=0.8744, Precision=0.8733, Recall=0.8755, Support=1622
+Label 'Sf': F1=0.8873, Precision=0.8641, Recall=0.9118, Support=544
+Label 'T': F1=0.6809, Precision=0.6931, Recall=0.6690, Support=574
+Label 'D': F1=0.9393, Precision=0.9155, Recall=0.9644, Support=337
+Label 'St': F1=0.9518, Precision=0.9724, Recall=0.9321, Support=265
+Label 'Af': F1=0.8443, Precision=0.8957, Recall=0.7984, Support=129
+Fold 0 - Overall Metrics: {'f1': 0.8159239039333559, 'precision': 0.8244530038081308, 'recall': 0.8256103438443865}
+
+Fold 1 - Per-Class Metrics:
+Label 'F': F1=0.9268, Precision=0.9405, Recall=0.9134, Support=3567
+Label 'Ac': F1=0.9495, Precision=0.9429, Recall=0.9563, Support=1623
+Label 'Q': F1=0.8856, Precision=0.8686, Recall=0.9034, Support=1273
+Label 'Sf': F1=0.8907, Precision=0.8734, Recall=0.9088, Support=296
+Label 'T': F1=0.6986, Precision=0.7083, Recall=0.6892, Support=444
+Label 'D': F1=0.9228, Precision=0.9212, Recall=0.9244, Support=291
+Label 'St': F1=0.9439, Precision=0.9224, Recall=0.9665, Support=209
+Label 'Af': F1=0.8458, Precision=0.7869, Recall=0.9143, Support=105
+Fold 1 - Overall Metrics: {'f1': 0.82255100008643, 'precision': 0.8336013943963556, 'recall': 0.8313864119446145}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-2############
+{'f1': 0.8327739504124978, 'precision': 0.840369962649948, 'recall': 0.8418088911087216}
+
+Fold 2 - Per-Class Metrics:
+Label 'F': F1=0.9328, Precision=0.9384, Recall=0.9274, Support=2643
+Label 'Ac': F1=0.9578, Precision=0.9612, Recall=0.9544, Support=1402
+Label 'Q': F1=0.8980, Precision=0.8959, Recall=0.9002, Support=1042
+Label 'Sf': F1=0.8915, Precision=0.8880, Recall=0.8949, Support=257
+Label 'T': F1=0.7268, Precision=0.7139, Recall=0.7401, Support=354
+Label 'D': F1=0.8971, Precision=0.8673, Recall=0.9290, Support=183
+Label 'St': F1=0.9333, Precision=0.9306, Recall=0.9360, Support=172
+Label 'Af': F1=0.8073, Precision=0.7652, Recall=0.8544, Support=103
+Fold 2 - Overall Metrics: {'f1': 0.8327739504124978, 'precision': 0.840369962649948, 'recall': 0.8418088911087216}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-3############
+{'f1': 0.8164853922493954, 'precision': 0.8272981382214619, 'recall': 0.8233828736790905}
+
+Fold 3 - Per-Class Metrics:
+Label 'F': F1=0.9243, Precision=0.9148, Recall=0.9339, Support=3300
+Label 'Ac': F1=0.9461, Precision=0.9262, Recall=0.9669, Support=1661
+Label 'Q': F1=0.9025, Precision=0.9025, Recall=0.9025, Support=1344
+Label 'Sf': F1=0.9153, Precision=0.9305, Recall=0.9006, Support=312
+Label 'T': F1=0.7396, Precision=0.8000, Recall=0.6876, Support=541
+Label 'D': F1=0.8624, Precision=0.9312, Recall=0.8031, Support=320
+Label 'St': F1=0.9228, Precision=0.9444, Recall=0.9020, Support=245
+Label 'Af': F1=0.8588, Precision=0.8261, Recall=0.8941, Support=85
+Fold 3 - Overall Metrics: {'f1': 0.8164853922493954, 'precision': 0.8272981382214619, 'recall': 0.8233828736790905}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-4############
+{'f1': 0.8339774101209323, 'precision': 0.8434488813073061, 'recall': 0.8410591167983846}
+
+Fold 4 - Per-Class Metrics:
+Label 'F': F1=0.9308, Precision=0.9351, Recall=0.9266, Support=3993
+Label 'Ac': F1=0.9532, Precision=0.9376, Recall=0.9694, Support=1860
+Label 'Q': F1=0.8992, Precision=0.8945, Recall=0.9040, Support=1510
+Label 'Sf': F1=0.8886, Precision=0.8825, Recall=0.8947, Support=361
+Label 'T': F1=0.6719, Precision=0.7041, Recall=0.6425, Support=537
+Label 'D': F1=0.9295, Precision=0.9380, Recall=0.9211, Support=279
+Label 'St': F1=0.9345, Precision=0.9386, Recall=0.9304, Support=230
+Label 'Af': F1=0.8482, Precision=0.9083, Recall=0.7956, Support=137
+Fold 4 - Overall Metrics: {'f1': 0.8339774101209323, 'precision': 0.8434488813073061, 'recall': 0.8410591167983846}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-5############
+{'f1': 0.8214465952236167, 'precision': 0.8298544603705772, 'recall': 0.8336805074177563}
+
+Fold 5 - Per-Class Metrics:
+Label 'F': F1=0.9233, Precision=0.9439, Recall=0.9036, Support=3652
+Label 'Ac': F1=0.9469, Precision=0.9383, Recall=0.9558, Support=1876
+Label 'Q': F1=0.9013, Precision=0.8910, Recall=0.9119, Support=1407
+Label 'Sf': F1=0.8669, Precision=0.8308, Recall=0.9063, Support=363
+Label 'T': F1=0.7330, Precision=0.7014, Recall=0.7675, Support=456
+Label 'D': F1=0.8824, Precision=0.8865, Recall=0.8784, Support=329
+Label 'St': F1=0.9491, Precision=0.9388, Recall=0.9596, Support=272
+Label 'Af': F1=0.8530, Precision=0.8551, Recall=0.8510, Support=208
+Fold 5 - Overall Metrics: {'f1': 0.8214465952236167, 'precision': 0.8298544603705772, 'recall': 0.8336805074177563}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-LSTM-CRF-EGP-42-6############
+{'f1': 0.8092814754696526, 'precision': 0.8210654439233748, 'recall': 0.8184520370200137}
+
+Fold 6 - Per-Class Metrics:
+Label 'F': F1=0.9225, Precision=0.9222, Recall=0.9227, Support=4139
+Label 'Ac': F1=0.9531, Precision=0.9614, Recall=0.9449, Support=2161
+Label 'Q': F1=0.8803, Precision=0.8712, Recall=0.8896, Support=1567
+Label 'Sf': F1=0.9124, Precision=0.9093, Recall=0.9155, Support=438
+Label 'T': F1=0.7294, Precision=0.7125, Recall=0.7471, Support=597
+Label 'D': F1=0.8973, Precision=0.8761, Recall=0.9195, Support=323
+Label 'St': F1=0.9558, Precision=0.9474, Recall=0.9643, Support=224
+Label 'Af': F1=0.8339, Precision=0.8750, Recall=0.7964, Support=167
+Fold 6 - Overall Metrics: {'f1': 0.8092814754696526, 'precision': 0.8210654439233748, 'recall': 0.8184520370200137}
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-CRF-42-0############
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-CRF-42-0############
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-CRF-42-0############
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-CRF-42-0############
+###########Chinese-Recipe-NER-NEW-NER-BIO-bert-base-chinese-BERT-CRF-42-0############

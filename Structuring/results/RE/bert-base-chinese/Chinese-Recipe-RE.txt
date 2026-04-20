@@ -1,0 +1,104 @@
+###########Chinese-Recipe-RE-RE-bert-base-chinese-BERT-42-0############
+{'f1': 0.8870421321230485, 'precision': 0.894102128030699, 'recall': 0.8889879498808073}
+
+Fold 0 Results:
+Overall - F1: 0.8870, Precision: 0.8941, Recall: 0.8890
+Per-Class Metrics:
+  O: F1=0.9579, Precision=0.9665, Recall=0.9494, Support=395
+  T: F1=0.9458, Precision=0.9588, Recall=0.9331, Support=598
+  N: F1=0.9827, Precision=0.9737, Recall=0.9918, Support=486
+  I: F1=0.8143, Precision=0.7917, Recall=0.8382, Support=136
+  F-eq: F1=0.9875, Precision=0.9753, Recall=1.0000, Support=79
+  T-eq: F1=0.0000, Precision=0.0000, Recall=0.0000, Support=0
+  T-comp: F1=0.8333, Precision=0.8000, Recall=0.8696, Support=23
+  F-comp: F1=0.8627, Precision=0.7857, Recall=0.9565, Support=23
+  F-part-of: F1=0.9254, Precision=0.9118, Recall=0.9394, Support=33
+  T-part-of: F1=0.0000, Precision=0.0000, Recall=0.0000, Support=0
+  V-tm: F1=0.8140, Precision=0.8974, Recall=0.7447, Support=47
+--------------------------------------------------------------------------------
+###########Chinese-Recipe-RE-RE-bert-base-chinese-BERT-42-1############
+{'f1': 0.8908393455445516, 'precision': 0.8970242630385485, 'recall': 0.8967503023431596}
+
+Fold 1 Results:
+Overall - F1: 0.8908, Precision: 0.8970, Recall: 0.8968
+Per-Class Metrics:
+  O: F1=0.9592, Precision=0.9579, Recall=0.9606, Support=355
+  T: F1=0.9474, Precision=0.9401, Recall=0.9548, Support=575
+  N: F1=0.9867, Precision=0.9836, Recall=0.9897, Support=486
+  I: F1=0.8333, Precision=0.8392, Recall=0.8276, Support=145
+  F-eq: F1=0.9333, Precision=1.0000, Recall=0.8750, Support=56
+  T-eq: F1=0.5714, Precision=0.4000, Recall=1.0000, Support=2
+  T-comp: F1=0.9167, Precision=0.9429, Recall=0.8919, Support=37
+  F-comp: F1=0.8462, Precision=0.7857, Recall=0.9167, Support=12
+  F-part-of: F1=0.9167, Precision=0.9167, Recall=0.9167, Support=24
+  T-part-of: F1=0.6667, Precision=0.8000, Recall=0.5714, Support=7
+  V-tm: F1=0.9072, Precision=0.9565, Recall=0.8627, Support=51
+--------------------------------------------------------------------------------
+###########Chinese-Recipe-RE-RE-bert-base-chinese-BERT-42-2############
+{'f1': 0.9186086977287843, 'precision': 0.9231274961597546, 'recall': 0.9232126642771802}
+
+Fold 2 Results:
+Overall - F1: 0.9186, Precision: 0.9231, Recall: 0.9232
+Per-Class Metrics:
+  O: F1=0.9754, Precision=0.9706, Recall=0.9802, Support=303
+  T: F1=0.9627, Precision=0.9618, Recall=0.9636, Support=549
+  N: F1=0.9814, Precision=0.9814, Recall=0.9814, Support=430
+  I: F1=0.8316, Precision=0.8587, Recall=0.8061, Support=98
+  F-eq: F1=0.9245, Precision=0.9074, Recall=0.9423, Support=52
+  T-eq: F1=0.0000, Precision=0.0000, Recall=0.0000, Support=0
+  T-comp: F1=0.9333, Precision=0.9333, Recall=0.9333, Support=15
+  F-comp: F1=0.8108, Precision=0.7500, Recall=0.8824, Support=17
+  F-part-of: F1=0.9333, Precision=0.9608, Recall=0.9074, Support=54
+  T-part-of: F1=1.0000, Precision=1.0000, Recall=1.0000, Support=1
+  V-tm: F1=0.8065, Precision=0.8065, Recall=0.8065, Support=31
+--------------------------------------------------------------------------------
+###########Chinese-Recipe-RE-RE-bert-base-chinese-BERT-42-3############
+{'f1': 0.8901843444032728, 'precision': 0.8967679880750944, 'recall': 0.8944819112077996}
+
+Fold 3 Results:
+Overall - F1: 0.8902, Precision: 0.8968, Recall: 0.8945
+Per-Class Metrics:
+  O: F1=0.9724, Precision=0.9898, Recall=0.9556, Support=405
+  T: F1=0.9556, Precision=0.9515, Recall=0.9597, Support=695
+  N: F1=0.9845, Precision=0.9926, Recall=0.9765, Support=553
+  I: F1=0.8125, Precision=0.7800, Recall=0.8478, Support=138
+  F-eq: F1=0.9571, Precision=0.9571, Recall=0.9571, Support=70
+  T-eq: F1=0.0000, Precision=0.0000, Recall=0.0000, Support=0
+  T-comp: F1=0.8125, Precision=0.8125, Recall=0.8125, Support=16
+  F-comp: F1=0.7907, Precision=0.8500, Recall=0.7391, Support=23
+  F-part-of: F1=0.8364, Precision=0.8214, Recall=0.8519, Support=27
+  T-part-of: F1=0.5000, Precision=0.3333, Recall=1.0000, Support=1
+  V-tm: F1=0.8989, Precision=0.8511, Recall=0.9524, Support=42
+--------------------------------------------------------------------------------
+###########Chinese-Recipe-RE-RE-bert-base-chinese-BERT-42-4############
+{'f1': 0.9082300232590481, 'precision': 0.9132782186948852, 'recall': 0.9145433568489122}
+
+Fold 4 Results:
+Overall - F1: 0.9082, Precision: 0.9133, Recall: 0.9145
+Per-Class Metrics:
+  O: F1=0.9624, Precision=0.9680, Recall=0.9569, Support=348
+  T: F1=0.9476, Precision=0.9590, Recall=0.9366, Support=599
+  N: F1=0.9866, Precision=0.9848, Recall=0.9885, Support=523
+  I: F1=0.8541, Precision=0.8163, Recall=0.8955, Support=134
+  F-eq: F1=0.9481, Precision=0.9143, Recall=0.9846, Support=65
+  T-eq: F1=1.0000, Precision=1.0000, Recall=1.0000, Support=1
+  T-comp: F1=0.8387, Precision=0.8387, Recall=0.8387, Support=31
+  F-comp: F1=0.8182, Precision=0.7500, Recall=0.9000, Support=20
+  F-part-of: F1=0.8000, Precision=0.8462, Recall=0.7586, Support=29
+  T-part-of: F1=0.9091, Precision=0.8333, Recall=1.0000, Support=5
+  V-tm: F1=0.9070, Precision=0.9512, Recall=0.8667, Support=45
+--------------------------------------------------------------------------------
+Average Metrics: {'f1': 0.44949045430587053, 'precision': 0.45243000939989814, 'recall': 0.45179761845578587}
+
+Per-Class Average Metrics:
+Label 'O': F1=0.4827, Precision=0.4853, Recall=0.4803, Support=180
+Label 'T': F1=0.4759, Precision=0.4771, Recall=0.4748, Support=301
+Label 'N': F1=0.4922, Precision=0.4916, Recall=0.4928, Support=247
+Label 'I': F1=0.4146, Precision=0.4086, Recall=0.4215, Support=65
+Label 'F-eq': F1=0.4751, Precision=0.4754, Recall=0.4759, Support=32
+Label 'T-eq': F1=0.1571, Precision=0.1400, Recall=0.2000, Support=0
+Label 'T-comp': F1=0.4335, Precision=0.4327, Recall=0.4346, Support=12
+Label 'F-comp': F1=0.4129, Precision=0.3921, Recall=0.4395, Support=9
+Label 'F-part-of': F1=0.4412, Precision=0.4457, Recall=0.4374, Support=16
+Label 'T-part-of': F1=0.3076, Precision=0.2967, Recall=0.3571, Support=1
+Label 'V-tm': F1=0.4333, Precision=0.4463, Recall=0.4233, Support=21

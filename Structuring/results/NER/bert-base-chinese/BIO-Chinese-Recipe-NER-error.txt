@@ -1,0 +1,4 @@
+###########Chinese-Recipe-NER-error-NER-BIO-bert-base-chinese-BERT-CRF-42-0############
+###########Chinese-Recipe-NER-error-NER-BIO-bert-base-chinese-BERT-CRF-42-0############
+###########Chinese-Recipe-NER-error-NER-BIO-bert-base-chinese-BERT-CRF-42-0############
+{'f1': 0.8121266001569205, 'precision': 0.8189073200544452, 'recall': 0.8234416572825975}

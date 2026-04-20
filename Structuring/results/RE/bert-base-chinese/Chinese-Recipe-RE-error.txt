@@ -1,0 +1,3 @@
+###########Chinese-Recipe-RE-error-RE-bert-base-chinese-BERT-42-0############
+###########Chinese-Recipe-RE-error-RE-bert-base-chinese-BERT-42-0############
+{'f1': 0.9844156495196259, 'precision': 0.9852394102990036, 'recall': 0.9850735434354623}
